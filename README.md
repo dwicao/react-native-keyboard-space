@@ -63,6 +63,9 @@ const styles = StyleSheet.create({
 export default MyExample;
 ```
 
+## Credits
+All credits goes to original author, I just make this repo for easy to use by importing from npm.
+
 ## License
 MIT
 
