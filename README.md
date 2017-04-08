@@ -1,4 +1,5 @@
 # react-native-keyboard-space
+![demo](https://raw.githubusercontent.com/dwicao/react-native-keyboard-space/master/demo.gif)
 
 ## What is this?
   * On iOS, the software keyboard covers the screen by default.
