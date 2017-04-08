@@ -2915,6 +2915,10 @@ react-native-circle-button@^1.0.2:
   version "1.0.3"
   resolved "https://registry.yarnpkg.com/react-native-circle-button/-/react-native-circle-button-1.0.3.tgz#9391d85aae5e4a256105efe1a14316d4f4ae7ada"
 
+react-native-keyboard-space@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-keyboard-space/-/react-native-keyboard-space-1.0.0.tgz#9aa29626ad4aee1148b8fe5dd577eefe5de903f5"
+
 react-native@0.40.0:
   version "0.40.0"
   resolved "https://registry.yarnpkg.com/react-native/-/react-native-0.40.0.tgz#ca7b86a8e8fbc7653634ad47ca2ffd69fdf18ad5"

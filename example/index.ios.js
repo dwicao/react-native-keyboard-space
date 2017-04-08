@@ -7,7 +7,7 @@ import {
   TextInput,
   ScrollView,
 } from 'react-native';
-import KeyboardSpace from './KeyboardSpace';
+import KeyboardSpace from 'react-native-keyboard-space';
 
 export default class sparkClick extends Component {
   render() {
