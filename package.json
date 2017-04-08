@@ -1,0 +1,31 @@
+{
+  "name": "react-native-keyboard-space",
+  "version": "1.0.0",
+  "description": "React Native Keyboard Space",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwicao/react-native-keyboard-space.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "keyboard",
+    "space",
+    "avoid",
+    "view"
+  ],
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "author": "Lutfian Dwi Cahyono <lutfiandwica@gmail.com> (https://dwicao.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dwicao/react-native-keyboard-space/issues"
+  },
+  "homepage": "https://github.com/dwicao/react-native-keyboard-space#readme"
+}
